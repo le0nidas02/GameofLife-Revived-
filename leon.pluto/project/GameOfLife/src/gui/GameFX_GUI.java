@@ -42,7 +42,7 @@ public class GameFX_GUI extends Application
     private int lastMapHeight = gridSize;
 
     // Standardgröße der Map und Zell Size
-    private static final int gridSize = 50;
+    private static final int gridSize = 200;
     private static final int cellSize = 10;
 
     /**
@@ -109,7 +109,7 @@ public class GameFX_GUI extends Application
         primaryStage.show();
 
         
-        timeline = new Timeline(new KeyFrame(Duration.millis(300), e -> step()));       // Initialisiert die Timeline für die Run Methode alle 0.3 sekunden, müsste auch bei größeren Maps gehen (0.5 Sekunden bei 1000x1000 getestet)
+        timeline = new Timeline(new KeyFrame(Duration.millis(50), e -> step()));       // Initialisiert die Timeline für die Run Methode alle 0.3 sekunden, müsste auch bei größeren Maps gehen (0.5 Sekunden bei 1000x1000 getestet)
         timeline.setCycleCount(Timeline.INDEFINITE);
 
         
