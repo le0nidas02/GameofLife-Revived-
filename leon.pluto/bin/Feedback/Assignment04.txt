@@ -1,0 +1,11 @@
+Task 1: (0/0)
+Task 2: (0/1.5)
+- System.arraycopy uses a loop internally
+Task 3: (0/2.5)
+- System.arraycopy uses a loop internally
+Task 4: (2.5/2.5)
+Task 5: (1.5/1.5)
+- Follow-up error
+Style: (2/2)
+-----------------------
+Total: (10/10)

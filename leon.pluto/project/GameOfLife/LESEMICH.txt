@@ -1,0 +1,12 @@
+Ein kleines Tutorial für die mit gelieferten .png's :
+Ich habe 3 .png's mit drin
+
+default_Map: Die png mit der Die Map Anfangs geladen wird --> Hier extra 1000x1000 groß direkt als limit test
+saved_state.png: Die .png die automatisch erstellt wird bzw umgeschrieben wird, falls man in der App auf "save" klickt, kann aufgerufen werden indem man auf den Knopf "load last save" drückt --> (überschreibt die aktuelle map und cells)
+testBuild.png: kleine test .png die ich zum testen von den Glidern etc. benutzt habe, ihr könnt eure .png's zum testen einfach "testBuild" nennen und in der App rein laden mit dem Knopf "load test build"
+
+
+Ich habe kleine schwierigkeiten mit dem Video, und schaue gerade ob ich es in der Uni Cloud hochladen kann und hier als link veröffentlichen kann
+
+Edit: hier das Hochgeladene Video zum Code:
+https://cloud.uni-konstanz.de/index.php/s/Wfqq6kYpmb6J2mS

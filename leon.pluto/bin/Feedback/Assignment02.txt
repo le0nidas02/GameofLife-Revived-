@@ -1,0 +1,8 @@
+Task 1: (1/1)
+Task 2: (1/2)
+- method name is bmi not BMI
+Task 3: (2/2)
+Task 4: (3/3)
+Style: (2/2)
+-----------------------
+Total: (9/10)

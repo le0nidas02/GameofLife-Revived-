@@ -1,0 +1,55 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Cell",
+            "request": "launch",
+            "mainClass": "simulation.Cell",
+            "projectName": "GameOfLife_e0a88dd0"
+        },
+        {
+            "type": "java",
+            "name": "GameFX_GUI",
+            "request": "launch",
+            "mainClass": "gui.GameFX_GUI",
+            "projectName": "GameOfLife_e0a88dd0",
+            "vmArgs": "--module-path \"C:/Java/javafx-sdk-22.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "testJavafx",
+            "request": "launch",
+            "mainClass": "run.testJavafx",
+            "projectName": "GameOfLife_e0a88dd0",
+            "vmArgs": "--module-path \"C:/Java/javafx-sdk-22.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "GameOfLife",
+            "request": "launch",
+            "mainClass": "run.GameOfLife",
+            "projectName": "GameOfLife_e0a88dd0",
+            "vmArgs": "--module-path \"C:/Java/javafx-sdk-22.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "projectName": "GameOfLife_e0a88dd0",
+            "vmArgs": "--module-path \"C:/Java/javafx-sdk-22.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "testJavafx",
+            "request": "launch",
+            "mainClass": "testJavafx",
+            "projectName": "GameOfLife_e0a88dd0",
+            "vmArgs": "--module-path \"C:/Java/javafx-sdk-22.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+Task 1: (4.5/8)
+- List includes lower case letters (-1.5)
+- Store as all caps token (-1)
+- No file is written (-1)
+Style: (2/2)
+-----------------------
+Total: (6.5/10)

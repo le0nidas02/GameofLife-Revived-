@@ -1,0 +1,11 @@
+Task 1: (0/1)
+- Do not extend from LinkedList
+Task 2: (1/1)
+Task 3: (1/1)
+Task 4: (2/2)
+Task 5: (1/1)
+Task 6: (1/1)
+Task 7: (1/1)
+Style: (2/2)
+-----------------------
+Total: (9/10)

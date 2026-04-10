@@ -1,0 +1,5 @@
+Task 1: (7/8)
+- In printAllDescendants you have to exclude the starting node
+Style: (2/2)
+-----------------------
+Total: (9/10)

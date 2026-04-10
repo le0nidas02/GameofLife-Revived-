@@ -1,0 +1,5 @@
+Task 1: (8/8)
+Style: (1/2)
+- Missing proper JavaDoc
+-----------------------
+Total: (9/10)
