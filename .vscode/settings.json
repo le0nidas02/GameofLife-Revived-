@@ -1,0 +1,22 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "/usr/lib/jvm/java-24.0.2-openjfx/lib/j",
+            "/usr/lib/jvm/java-24.0.2-openjfx/lib/javafx.base.jar",
+            "/usr/lib/jvm/java-24.0.2-openjfx/lib/javafx.controls.jar",
+            "/usr/lib/jvm/java-24.0.2-openjfx/lib/javafx.fxml.jar",
+            "/usr/lib/jvm/java-24.0.2-openjfx/lib/javafx.graphics.jar",
+            "/usr/lib/jvm/java-24.0.2-openjfx/lib/javafx.media.jar",
+            "/usr/lib/jvm/java-24.0.2-openjfx/lib/javafx.swing.jar",
+            "/usr/lib/jvm/java-24.0.2-openjfx/lib/javafx.web.jar",
+            "/usr/lib/jvm/java-24.0.2-openjfx/lib/javafx-swt.jar",
+            "/usr/lib/jvm/java-24.0.2-openjfx/lib/jdk.jsobject.jar",
+            "/usr/lib/jvm/java-24.0.2-openjfx/lib/jfx.incubator.input.jar",
+            "/usr/lib/jvm/java-24.0.2-openjfx/lib/jfx.incubator.richtext.jar"
+        ],
+        "exclude": [
+            "/usr/share/java/jpegxl.jar"
+        ]
+    }
+}
